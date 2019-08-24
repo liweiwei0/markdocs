@@ -1,4 +1,4 @@
-# <p align='center'>spring 注解</p>
+# <p align='center'>spring annotation</p>
 
 | 注解 | 解释 |
 | :-- | :-- |
